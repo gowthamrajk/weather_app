@@ -17,7 +17,7 @@
 
 **3) Alerts for wrong input location**
 
-4) Attractive UI design
+**4) Attractive UI design**
 
 
 
