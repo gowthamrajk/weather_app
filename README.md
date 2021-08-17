@@ -14,8 +14,7 @@
 1) Search Climate conditions as per input location
 2) Various parameters like location's current weather, minimum and maximum temperatures, humidity, wind speed and the pressure feeling
 3) Alerts for wrong input location
-4) Copy the generated passwords
-5) Attractive UI design
+4) Attractive UI design
 
 
 
