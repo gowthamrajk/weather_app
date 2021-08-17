@@ -87,6 +87,23 @@ body {
     left: 20px;
   }
 
+.Blink 
+{ 
+    animation: blinker 0.1s cubic-bezier(.5, 0, 1, 1) infinite alternate; 
+}
+
+@keyframes blinker 
+{ 
+    from 
+    { 
+        opacity: 1; 
+    }
+    to
+    { 
+        opacity: 0; 
+    } 
+}
+
 .modal {
   display: none; 
   position: fixed; 
