@@ -4,5 +4,6 @@
 
 ### For more web developments, visit my [Portfolio](https://gowthamrajk.github.io/) 🌐 😄
 
-- https://gowthamrajk.github.io/weather_app/
+### [demo view](https://gowthamrajk.github.io/) 🌐
+
 
