@@ -19,7 +19,7 @@
 
 **4) Dynamic Background changing**
 
-**5) Alerts for wrong input location**
+**5) Backgrounds according to the input Location**
 
 **6) Attractive UI design**
 
