@@ -17,7 +17,7 @@
 
 **3) Alerts for wrong input location**
 
-**4) Alerts for wrong input location**
+**4) Dynamic Background changing**
 
 **5) Alerts for wrong input location**
 
