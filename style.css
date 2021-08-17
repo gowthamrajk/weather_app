@@ -80,7 +80,7 @@ body {
   
   .weather.loading:after {
     visibility: visible;
-    content: "Loading...";
+    content: "Enter your Search Location ...";
     color: white;
     position: absolute;
     top: 0;
