@@ -42,6 +42,10 @@
 ## Landing Screen
 
 ![image](https://user-images.githubusercontent.com/43011442/129760941-3574d4e9-6c55-4bec-ae63-601254f96346.png)
+
+
+## Location Inputs
+
 ![image](https://user-images.githubusercontent.com/43011442/129761306-9e506e15-33ee-475d-b718-96657a06f8b6.png)
 ![image](https://user-images.githubusercontent.com/43011442/129761621-20d1aef8-2978-4dd7-91be-2254fba79f2b.png)
 ![image](https://user-images.githubusercontent.com/43011442/129761821-2f00ced3-9018-4cc1-ba78-29bfba44271c.png)
