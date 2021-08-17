@@ -19,6 +19,7 @@
 
 **4) Attractive UI design**
 
+# TECHNOLOGIES USED 📌
 
 
 
