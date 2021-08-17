@@ -9,4 +9,5 @@
 
 ### 🌐 Demo : https://gowthamrajk.github.io/weather_app/
 
+## 🔭 Features :
 
