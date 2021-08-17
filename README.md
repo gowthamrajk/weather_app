@@ -13,6 +13,7 @@
 
 1) Random Password Generation
 2) Generate Customized Passwords of your own
+3) Set various password constraints as uppercase, lowercase, numbers, special characters, length
 
 
 
