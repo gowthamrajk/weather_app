@@ -39,6 +39,8 @@
 
 # UI SneakPeak ❤️ 
 
+## Landing Screen
+
 ![image](https://user-images.githubusercontent.com/43011442/129760941-3574d4e9-6c55-4bec-ae63-601254f96346.png)
 ![image](https://user-images.githubusercontent.com/43011442/129761306-9e506e15-33ee-475d-b718-96657a06f8b6.png)
 ![image](https://user-images.githubusercontent.com/43011442/129761621-20d1aef8-2978-4dd7-91be-2254fba79f2b.png)
@@ -48,7 +50,7 @@
 ![image](https://user-images.githubusercontent.com/43011442/129762224-5cd4eb8f-03af-4ab7-8daa-484446b810cd.png)
 
 
-### Invalid Location Alert
+## Invalid Location Alert
 
 ![image](https://user-images.githubusercontent.com/43011442/129762504-5feb72c1-32ed-43ac-b279-30d73fa614ac.png)
 
