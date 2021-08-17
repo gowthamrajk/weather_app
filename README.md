@@ -17,6 +17,8 @@
 
 **3) Alerts for wrong input location**
 
+**3) Alerts for wrong input location**
+
 **4) Attractive UI design**
 
 # TECHNOLOGIES USED 📌
