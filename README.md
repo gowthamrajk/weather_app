@@ -29,6 +29,9 @@
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=339AF0&logo=Font+Awesome&logoColor=FFFFFF&label=)
 
+## weather Informations 📺
+
+
 ## Development Tools 📺
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
