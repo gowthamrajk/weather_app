@@ -60,7 +60,7 @@
 
 ## Invalid Location Alert
 
-![image](https://user-images.githubusercontent.com/43011442/129762504-5feb72c1-32ed-43ac-b279-30d73fa614ac.png)
+![image](https://user-images.githubusercontent.com/43011442/129861468-6726537f-dad5-43cb-9f2d-639bb1a357dc.png)
 
 
 <br><br>
