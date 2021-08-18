@@ -16,11 +16,12 @@
   <div>
     <div class="card">
       <center><h2 style="color: gold; font-size: 38px; font-weight: bolder;">Weather Predictor</h2></center>
-      <hr>
+   
       <div class="search" style="margin-top: 2%; margin-bottom: 2%">
         <input type="text" class="search-bar" placeholder="Search">
         <button><i class="fa fa-search"></i></button>
       </div>
+      <hr>
       <div class="weather loading">
         <h2 class="city" style="font-size: larger;"></h2>
         <h1 class="temp" style="font-weight: bolder;">51°C</h1>
@@ -32,12 +33,20 @@
           <b style="color: yellow; font-size: larger;">😁</b>&nbsp;<small style="margin-top: 1.5%">Feels Like : </small>&nbsp;&nbsp;<h6 style="font-weight: bolder; margin-top: 2.5%" class="feels_like"></h6>
         </div>
         <div class="flex">
-          <img src="https://openweathermap.org/img/wn/04n.png" alt="" class="icon" />
           <div class="description" style="font-weight: bolder; font-size: larger; color: lightblue">Cloudy</div>
+          <img src="https://openweathermap.org/img/wn/04n.png" alt="" class="icon" />
         </div>
-        <div class="humidity" style="font-weight: bolder; font-size: large; margin: 2%">Humidity: 60%</div>
-        <div class="wind" style="font-weight: bolder; font-size: large; margin: 2%">Wind speed: 6.2 km/h</div>
-        <div class="pressure" style="font-weight: bolder; font-size: large; margin: 2%">Pressure: 6.2 psf</div>
+        <hr>
+        <div style="display: flex; margin-top: 2%; margin-bottom: 3%">
+          <b style="font-weight: bolder; font-size: medium; margin-left: 4%;">Humidity</b>
+          <b style="font-weight: bolder; font-size: medium; margin-left: 11%;">Wind Speed</b>
+          <b style="font-weight: bolder; font-size: medium; margin-left: 15%;">Pressure</b>
+        </div>
+        <div style="display: flex; margin-left: 2%;">
+          <i class="fas fa-temperature-high" style="color: skyblue; font-size: larger; "></i>&nbsp;<div class="humidity" style="font-weight: bolder; font-size: large; margin-right: 8%;"> 60%</div>         
+          <i class="fas fa-wind" style="color: skyblue; font-size: larger;"></i>&nbsp;<div class="wind" style="font-weight: bolder; font-size: large; margin-right: 8%;">6.2 km/h</div>
+          <i class="fas fas fa-smog" style="color: skyblue; font-size: medium; margin-top: 1.5%"></i>&nbsp;<div class="pressure" style="font-weight: bolder; font-size: large;">6.2 psf</div>
+        </div>
       </div>
     </div>
     <br><br>
